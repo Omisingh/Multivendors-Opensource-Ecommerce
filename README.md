@@ -13,7 +13,7 @@ You will need to decide the types of products you want to be sold on your store;
 Description
 Amazon is one of the most successful websites in the world; it's also the #6 website most popular website in the world. Amazon generated $29 billion dollars in 2014 with a net profit of $240 million dollars! That's a ton of money. There are several reasons why Amazon is so successful but one of the reason why they're so successful is because they allow anyone to sell or buy products on their website.
 
-This course teaches you step by step instructions on how you too, can build your empire just like Jeff Bezos (Amazon founder). You don't have to be a coder and won't be writing any codes in this course. You'll see how simple and easy it is for anyone to launch their own successful multi vendor store that allows anyone to sell their product(s) directly on your website.
+This modules teaches you step by step instructions on how you too, can build your empire just like Jeff Bezos (Amazon founder). You don't have to be a coder and won't be writing any codes in this course. You'll see how simple and easy it is for anyone to launch their own successful multi vendor store that allows anyone to sell their product(s) directly on your website.
 
 Here are some of the amazing features your store will have:
 
