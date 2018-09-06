@@ -69,5 +69,3 @@ Who is the target audience?
 This is for people who like to sell physical or downloadable products online
 It’s also for people who want to create a multi vendor store with revenue sharing
 Business owners who are interested in making passive income from home
-This course is probably not for the person who is not interested in creating a marketplace for buying or selling products online
-It is also not for the person that is not willing to follow the course step by step
